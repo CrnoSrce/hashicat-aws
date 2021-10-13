@@ -10,8 +10,8 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  <center><h2>So long and thanks for all the fish!</h2></center>
+  The human race will eventually die of civilization. - Ralph Waldo Emerson
   <!-- END -->
 
   </div>
